@@ -1,0 +1,5 @@
+c:\users\yudac\documents\visual studio 2015\Projects\P1_1_1204025\P1_1_1204025\bin\Debug\P1_1_1204025.exe.config
+c:\users\yudac\documents\visual studio 2015\Projects\P1_1_1204025\P1_1_1204025\bin\Debug\P1_1_1204025.exe
+c:\users\yudac\documents\visual studio 2015\Projects\P1_1_1204025\P1_1_1204025\bin\Debug\P1_1_1204025.pdb
+c:\users\yudac\documents\visual studio 2015\Projects\P1_1_1204025\P1_1_1204025\obj\Debug\P1_1_1204025.exe
+c:\users\yudac\documents\visual studio 2015\Projects\P1_1_1204025\P1_1_1204025\obj\Debug\P1_1_1204025.pdb
