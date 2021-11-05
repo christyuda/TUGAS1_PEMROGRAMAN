@@ -10,9 +10,7 @@ namespace P1_4_1204025
         static void Main(string[] args)
         {
             int pilih;
-            string jenis;
-
-
+            
             Console.WriteLine("=====MENCARI LUAS DAN KELILING=====");
             Console.WriteLine("=> ketikan 1 untuk mengukur Luas persegi panjang");
             Console.WriteLine("=> ketikan 2 untuk mengukur Keliling persegi panjang");
